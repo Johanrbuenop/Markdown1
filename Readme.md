@@ -1,11 +1,13 @@
-Indice
+# **Indice**
 
-1. Que es GitHub
-2. Que es el control de versiones
-3. Que es Git
-4. Como empezar en github
+### 1. Que es GitHub
+### 2. Que es el control de versiones
+### 3. Que es Git
+### 4. Como empezar en github
 
-Contenido
+# **Contenido**
+
+![GITHUB](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
 1. 
 En resumen, GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
@@ -47,7 +49,7 @@ Los commits son la forma en que se denominan los cambios guardados en GitHub. Ca
 
 Para proponer los cambios que acabas de hacer a otros desarrolladores que trabajan en el mismo proyecto, debes crear una solicitud de extracción. Estas facilitan el trabajo conjunto en los proyectos, ya que son la principal herramienta de colaboración en GitHub.
 
-Glosario
+# **Glosario**
 
 1. Git clone
 
