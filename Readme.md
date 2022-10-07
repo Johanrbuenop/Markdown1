@@ -46,3 +46,30 @@ Los commits son la forma en que se denominan los cambios guardados en GitHub. Ca
 -Crear solicitudes de extracción en GitHub
 
 Para proponer los cambios que acabas de hacer a otros desarrolladores que trabajan en el mismo proyecto, debes crear una solicitud de extracción. Estas facilitan el trabajo conjunto en los proyectos, ya que son la principal herramienta de colaboración en GitHub.
+
+Glosario
+
+1. Git clone
+
+Git clone es un comando para descargar el código fuente existente desde un repositorio remoto (como Github, por ejemplo). En otras palabras, Git clone básicamente hace una copia idéntica de la última versión de un proyecto en un repositorio y la guarda en su computadora.
+
+2. Git branch
+
+Las ramas son muy importantes en el mundo de git. Mediante el uso de ramas, varios desarrolladores pueden trabajar en paralelo en el mismo proyecto simultáneamente. Podemos usar el comando git branch para crear, enumerar y eliminar ramas. 
+
+3. Git checkout
+
+Este es también uno de los comandos Git más utilizados. Para trabajar en una rama, primero debe cambiarse a ella. Usamos git checkout principalmente para cambiar de una rama a otra. También podemos usarlo para verificar archivos y confirmaciones.
+
+4. Git status
+
+El comando de estado de Git nos brinda toda la información necesaria sobre la rama actual.
+
+5. Git add
+
+Cuando creamos, modificamos o eliminamos un archivo, estos cambios ocurrirán en nuestro local y no se incluirán en la próxima confirmación (a menos que cambiemos las configuraciones).
+
+6. Git commit
+
+Este es quizás el comando más utilizado de Git. Una vez que llegamos a cierto punto en el desarrollo, queremos guardar nuestros cambios (tal vez después de una tarea o problema específico).
+
